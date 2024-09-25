@@ -58,7 +58,7 @@
 - Microsoft Azure: ![Azure proficiency](https://progress-bar.dev/65/?title=Intermediate&color=FFFF66&width=150)
 - MySQL: ![MySQL proficiency](https://progress-bar.dev/90/?title=Advanced&color=66FF66&width=150)
 - Microsoft SQL Server: ![SQL proficiency](https://progress-bar.dev/90/?title=Advanced&color=66FF66&width=150)
-- Linux: ![Linux proficiency](https://progress-bar.dev/80/?title=Advanced&color=66FF66&width=150)
+- Linux:![Linux proficiency](https://progress-bar.dev/80/?title=Advanced&color=66FF66&width=150)
 
 ### Web Development:
 - WordPress Customization: ![WordPress proficiency](https://progress-bar.dev/90/?title=Advanced&color=66FF66&width=150)
