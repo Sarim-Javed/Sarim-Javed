@@ -30,11 +30,11 @@
 <h3 align="left">Skills Proficiency:</h3>
 
 ### Programming Languages:
-- Python: ![Python proficiency](https://progress-bar.dev/90/?title=Advanced&color=66FF66&width=150)
-- C/C++: ![C/C++ proficiency](https://progress-bar.dev/85/?title=Advanced&color=66FF66&width=150)
-- JavaScript: ![JavaScript proficiency](https://progress-bar.dev/70/?title=Intermediate&color=FFFF66&width=150)
-- HTML/CSS: ![HTML/CSS proficiency](https://progress-bar.dev/90/?title=Advanced&color=66FF66&width=150)
-- C#: ![C# proficiency](https://progress-bar.dev/80/?title=Advanced&color=66FF66&width=150)
+- **Python**: ![Python proficiency](https://progress-bar.dev/90/?title=Advanced&color=66FF66&width=150)
+- **C/C++**: ![C/C++ proficiency](https://progress-bar.dev/85/?title=Advanced&color=66FF66&width=150)
+- **JavaScript**: ![JavaScript proficiency](https://progress-bar.dev/70/?title=Intermediate&color=FFFF66&width=150)
+- **HTML/CSS**: ![HTML/CSS proficiency](https://progress-bar.dev/90/?title=Advanced&color=66FF66&width=150)
+- **C#**: ![C# proficiency](https://progress-bar.dev/80/?title=Advanced&color=66FF66&width=150)
 
 ### Frameworks and Libraries:
 - TensorFlow: ![TensorFlow proficiency](https://progress-bar.dev/70/?title=Intermediate&color=FFFF66&width=150)
